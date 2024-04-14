@@ -3,3 +3,6 @@ venv/
 
 # DS_Store
 .DS_Store
+
+# キャッシュファイル
+__pycache__/
